@@ -1,0 +1,93 @@
+[
+  {
+    "slug": "samus-aran",
+    "name": "Samus Aran",
+    "epithet": "the bounty hunter",
+    "emergence": "natural",
+    "moniker": "⟦Samus Aran:MET:2d808b⟧"
+  },
+  {
+    "slug": "mother-brain",
+    "name": "Mother Brain",
+    "epithet": "the bio-mechanical ruler",
+    "emergence": "electrical",
+    "moniker": "⟦Mother Brain:MET:590791⟧"
+  },
+  {
+    "slug": "ridley",
+    "name": "Ridley",
+    "epithet": "the dragon",
+    "emergence": "natural",
+    "moniker": "⟦Ridley:MET:3d54fa⟧"
+  },
+  {
+    "slug": "kraid",
+    "name": "Kraid",
+    "epithet": "the beast of Brinstar",
+    "emergence": "natural",
+    "moniker": "⟦Kraid:MET:712cf7⟧"
+  },
+  {
+    "slug": "the-metroids",
+    "name": "The Metroids",
+    "epithet": "the bio-weapon",
+    "emergence": "ethereal",
+    "moniker": "⟦The Metroids:MET:cf029f⟧"
+  },
+  {
+    "slug": "the-baby-metroid",
+    "name": "The Baby Metroid (the Hatchling)",
+    "epithet": "the hatchling",
+    "emergence": "spiritual",
+    "moniker": "⟦The Baby Metroid (the Hatchling):MET:ba2aed⟧"
+  },
+  {
+    "slug": "the-chozo",
+    "name": "The Chozo",
+    "epithet": "the vanished progenitors",
+    "emergence": "spiritual",
+    "moniker": "⟦The Chozo:MET:136770⟧"
+  },
+  {
+    "slug": "phantoon",
+    "name": "Phantoon",
+    "epithet": "the phantom",
+    "emergence": "ethereal",
+    "moniker": "⟦Phantoon:MET:f79488⟧"
+  },
+  {
+    "slug": "draygon",
+    "name": "Draygon",
+    "epithet": "the sea beast",
+    "emergence": "natural",
+    "moniker": "⟦Draygon:MET:6940a1⟧"
+  },
+  {
+    "slug": "crocomire",
+    "name": "Crocomire",
+    "epithet": "the lava-beast",
+    "emergence": "natural",
+    "moniker": "⟦Crocomire:MET:621a89⟧"
+  },
+  {
+    "slug": "the-space-pirates",
+    "name": "The Space Pirates",
+    "epithet": "the raider-race",
+    "emergence": "natural",
+    "moniker": "⟦The Space Pirates:MET:1e3b44⟧"
+  },
+  {
+    "slug": "the-etecoons-and-dachora",
+    "name": "The Etecoons & Dachora",
+    "epithet": "the gentle creatures",
+    "emergence": "natural",
+    "moniker": "⟦The Etecoons & Dachora:MET:f0f49d⟧"
+  },
+  {
+    "slug": "zebes",
+    "name": "Zebes",
+    "epithet": "the fortress-world",
+    "emergence": "natural",
+    "moniker": "⟦Zebes:MET:0af539⟧"
+  }
+]

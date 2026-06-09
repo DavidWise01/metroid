@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "METROID",
+  "universe": "MET · Metroid",
+  "emergence": "",
+  "moniker": "⟦METROID:MET:4da19c⟧",
+  "carbon": "metroid.carbon.tiff (TIFF)",
+  "silicon": "metroid.silicon.png (PNG)",
+  "seal_sha256": "1af7560759f0265b1786103955209e4b573678d1da69ac2fc843fd5171186c25",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
